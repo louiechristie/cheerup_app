@@ -1,11 +1,7 @@
 == Cheerup App Readme
 
-== Branches
+Twitter like, social messaging with a positive slant. 
 
-* master - master
-* tweet - sharing with twitter
+Made with Ruby on Rails, Javascript, Kinetic.JS , HTML 5, CSS3. 
 
-== Discontinued branches
-
-* views - views and controllers
-* twitter - Twitter integration
+Forked from team project bgkennedy2000/cheerup_app
